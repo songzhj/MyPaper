@@ -9,3 +9,6 @@
 Debug版本的App在Demo目录下可以找到[下载](https://github.com/songzhj/MyPaper/raw/master/Demo/app-debug.apk),直接安装即可.
 </br>
 在项目目录下使用`npm install`命令可以构建项目所需环境, 项目的代码在`index.android.js`中.
+
+### License
+[`MIT License`](https://mit-license.org/)
